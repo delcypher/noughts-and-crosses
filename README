@@ -1,0 +1,14 @@
+This is a small Noughts and Crosses game demo written in Java.
+
+BUILD:
+You can either import the project into eclipse or use the makefile (run $ make)
+
+RUN:
+Run
+$ java GameTestHarness
+
+or if you using makefile you can use
+$ make run
+
+Note GameTestHarness has a few command line options. To see what they are run
+$ java GameTestHarness --help
